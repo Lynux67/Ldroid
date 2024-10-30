@@ -25,6 +25,10 @@ codename = `Ldroid`
 
 ```bash
 apt update && apt upgrade -y
+git clone https://github.com/Lynux67/Ldroid.git
+cd Ldroid
+chmod +x install_Ldroid.sh
+bash install_Ldroid.sh
 
 
 ```
